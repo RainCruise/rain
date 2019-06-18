@@ -1,0 +1,24 @@
+# Logs
+logs
+log
+*.log
+*.log.*
+
+# Dependency files
+node_modules
+
+# Distribution
+# dist
+audio
+
+# Local env files
+.env.local
+.env.*.local
+
+# Environment configuration files
+.DS_Store
+.idea
+.settings
+.swp
+.history
+package-lock.json
